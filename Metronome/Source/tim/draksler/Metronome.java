@@ -42,7 +42,7 @@ public class Metronome extends Activity {
 	private final static int MIN_TEMPO = 30;
 	private final static int MAX_TEMPO = 260;
 	private final static int[] s_arBpm = new int[] { 1, 40, 60, 66, 76, 108,
-			120, 168, 200 };
+			120, 168, 200,250 };
 	private final static String[] hitrostiMetronomaLabela = new String[] {
 			"Larghissimo", "Largo", "Larghetto", "Adagio", "Andante",
 			"Moderato", "Allegro", "Presto", "Prestissimo" };
