@@ -26,7 +26,7 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
-
+//Dodatni komentar
 public class druga extends ListActivity    {
 	public Metronome metronom;
 	
