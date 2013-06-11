@@ -114,7 +114,7 @@ public class druga extends ListActivity    {
         	rs.beforeFirst();
         	   
         	   s.close ();
-        	   System.out.println ("Uspe�no shranil ");
+        	   System.out.println ("Shranjevanje zakljuceno ");
         	
         }catch(Exception c)
         {
